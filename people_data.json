@@ -1,0 +1,23 @@
+{
+    "people" :
+        {
+            "Name1" :
+            {
+                "excluded" : "Name2",
+                "email" : "",
+                "sex" : "female"
+            },
+            "Name2" :
+            {
+                "excluded" : "Name1",
+                "email" : "",
+                "sex" : "male"
+            },
+            "Name3" :
+            {
+                "excluded" : "",
+                "email" : "",
+                "sex" : "male"
+            }
+        }
+}
